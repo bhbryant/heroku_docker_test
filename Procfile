@@ -1,1 +1,2 @@
-web: bundle exec ruby hello.rb -p $PORT
+web: /app/custom/start
+console: bash
